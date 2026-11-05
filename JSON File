@@ -1,0 +1,11 @@
+{
+    "name": "Rahul",
+    "roll_number": 101,
+    "department": "Computer Science",
+    "marks": 85,
+    "skills": [
+        "Python",
+        "Java",
+        "SQL"
+    ]
+}
